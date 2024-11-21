@@ -1,0 +1,6 @@
+@shoppingkart_ui_backend_HostAddress = http://localhost:5170
+
+GET {{shoppingkart_ui_backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

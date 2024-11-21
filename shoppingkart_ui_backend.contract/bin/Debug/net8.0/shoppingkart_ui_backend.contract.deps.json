@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "shoppingkart_ui_backend.contract/1.0.0": {
+        "runtime": {
+          "shoppingkart_ui_backend.contract.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "shoppingkart_ui_backend.contract/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
